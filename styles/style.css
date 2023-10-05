@@ -99,7 +99,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.apresentacao__links__navegacao{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
 
